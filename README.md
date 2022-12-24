@@ -15,7 +15,7 @@ git clone https://github.com/viswaah/vercel-redirect.git
 Add an `.env.local` file to the root with the following:
 
 ```
-GRAPHQL_ENDPOINT="https://wordpressite.com/graphql/"
+GRAPHQL_ENDPOINT="http://news.bgi-topaz-downtown.com/graphql/"
 ```
 
 Then run the development server,
